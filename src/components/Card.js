@@ -1,20 +1,3 @@
-// import React from "react";
-
-// const Card=({course})=>
-// {
-//     return(
-//         <div>
-//             <div>
-//                 <img src={course.image.url}></img>
-
-//             </div>
-            
-//         </div>
-//     )
-// }
-// export default Card;
-
-
 
 import React from 'react'
 import {FcLike,FcLikePlaceholder} from "react-icons/fc"
